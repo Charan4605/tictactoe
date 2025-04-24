@@ -29,7 +29,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/your-username/flutter-tic-tac-toe.git
+git clone (https://github.com/Charan4605/tictactoe/tree/main)
 cd flutter-tic-tac-toe
 Install dependencies:
 
